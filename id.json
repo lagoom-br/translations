@@ -1,1 +1,13 @@
-{}
+{
+    "(none)": "(tidak ada)",
+    "(+{{numHiddenPayees}} more)": "(+{{numHiddenPayees}} selengkapnya)",
+    "(after weekend)": "(setelah akhir pekan)",
+    "(before weekend)": "(sebelum akhir pekan)",
+    "(deleted)": "(dihapus)",
+    "(give feedback)": "(beri umpan balik)",
+    "(hidden)": "(tersembunyi)",
+    "(modified)": "(dimodifikasi)",
+    "(No payee)": "(Tidak ada penerima)",
+    "(Optional)": "(Opsional)",
+    "{{count}} transactions_other": "{{count}} transaksi"
+}
