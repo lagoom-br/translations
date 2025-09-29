@@ -1568,5 +1568,7 @@
     "You have {{count}} uncategorized transactions ({{amount}})_many": "Você tem {{count}} transações não categorizadas ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_other": "Você tem {{count}} transações não categorizadas ({{amount}})",
     "Starting Balance": "Saldo Inicial",
-    "Starting Balances": "Saldos Iniciais"
+    "Starting Balances": "Saldos Iniciais",
+    "Undo": "Desfazer",
+    "Redo": "Refazer"
 }
