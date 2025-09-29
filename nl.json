@@ -164,7 +164,6 @@
     "New Category": "Nieuwe Categorie",
     "New Category Group": "Nieuwe Categorie Groep",
     "New custom report": "Nieuw aangepast rapport",
-    "New version available: {{latestVersion}}": "Nieuwe versie beschikbaar: {{latestVersion}}",
     "Next date": "Volgende datum",
     "Next month": "Volgende maand",
     "No": "Nee",
@@ -1118,5 +1117,8 @@
     "{{accountName}} bank sync settings": "{{accountName}} bank synchronisatie instellingen",
     "{{endOccurrences}} times": "{{endOccurrences}} keer",
     "(after weekend)": "(na het weekend)",
-    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën"
+    "{{categoryGroupName}} expense group categories": "{{categoryGroupName}} uitgave groep categorieën",
+    "{{categoryName}} shortcuts": "{{categoryName}} snelkoppelingen",
+    "{{count}} uncategorized transactions_one": "{{count}} niet-gecategoriseerde transactie",
+    "{{count}} uncategorized transactions_other": "{{count}}niet-gecategoriseerde transacties"
 }
