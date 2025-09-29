@@ -1566,5 +1566,7 @@
     "You have {{count}} overspent categories ({{amount}})_other": "Você tem {{count}} categorias com gastos excedidos ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_one": "Você tem uma transação não categorizada ({{amount}})",
     "You have {{count}} uncategorized transactions ({{amount}})_many": "Você tem {{count}} transações não categorizadas ({{amount}})",
-    "You have {{count}} uncategorized transactions ({{amount}})_other": "Você tem {{count}} transações não categorizadas ({{amount}})"
+    "You have {{count}} uncategorized transactions ({{amount}})_other": "Você tem {{count}} transações não categorizadas ({{amount}})",
+    "Starting Balance": "Saldo Inicial",
+    "Starting Balances": "Saldos Iniciais"
 }
